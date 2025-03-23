@@ -1,1 +1,1 @@
-# kodschul-mysql-open-3.2
+# kodschul-mysql-open-3
